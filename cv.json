@@ -1,0 +1,259 @@
+{
+    "basics": {
+      "name": "Marco Alejandro Egea Moreno",
+      "label": "Software developer && Python || Java || C++.",
+      "image": "https://avatars.githubusercontent.com/u/73371461?v=4",
+      "email": "markoegea@gmail.com",
+      "phone": "+57 3172257110",
+      "url": "",
+      "summary": "I am Marco Egea, it is a pleasure that you read me ☀️. I am a software developer with strong skills in Python, Java and C++, Imagine having a personal assistant that do as you command your wishes, or a videogame where all their characters are controlled by a reinforcement learning algorithm, making the videogame deeper and providing a new type of experience, these what I am focused to bring to real life.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Bucaramanga",
+        "countryCode": "COP",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "markoegea",
+          "url": "https://linkedin.com/in/markoegea/"
+        },
+        {
+          "network": "X",
+          "username": "markoegea",
+          "url": "https://twitter.com/markoegea"
+        },
+        {
+          "network": "GitHub",
+          "username": "Markoegea ",
+          "url": "https://github.com/Markoegea"
+        },
+        {
+            "network": "Discord",
+            "username": "markoegea ",
+            "url": "https://discord.gg/X3CC9d4GQs"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "WMcolors",
+        "position": "Co-founder",
+        "url": "https://wmcolors.onrender.com/",
+        "startDate": "2023-09-15",
+        "endDate": null,
+        "summary": "In this role, I am responsible for: \n📌 Creation and management of online content on social networks. \n📌 Respond and attend to the FAQs.\n📌 Make and dispatch deliveries.",
+        "highlights": [
+          "Small company",
+          "Startup"
+        ]
+      },
+      {
+        "name": "Software developer",
+        "position": "Freelancer",
+        "startDate": "2022-11-01",
+        "endDate": null,
+        "summary": "In this role, I: \n📌 Create and maintain a web application. \n📌 Create and maintain a desktop application. \n📌 Develop and maintain a mobile application. \n📌 Develop and building a videogame, using Unity as a graphics engine, plus knowledge in the ML-Agents Toolkit, to train reinforcement learning agents in Unity. \n📌 Use deep learning models to assist and help you with any specific problem.",
+        "highlights": [
+          "Python",
+          "Java",
+          "C++"
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "Universidad Autónoma de Bucaramanga",
+      "url": "https://unab.edu.co/",
+      "area": "Mobile Developer",
+      "studyType": "Labor Technician",
+      "startDate": "2021-04-15",
+      "endDate": "2021-12-04",
+      "summary": "I learn: \n🎯 Teamwork \n🎯 Firebase Storage and Firestore database \n🎯 Mobile Development and Application Life Cycle"
+    }],
+    "certificates": [{
+      "name": "Programming Language Creation Course: Interpreters",
+      "date": "2022-08-01",
+      "issuer": "Platzi",
+      "ID": "005d5a6f-0fb0-4d78-9cab-1183e44586ba",
+      "url": "https://platzi.com/p/marcoegea/curso/2075-interpretes-software/diploma/detalle/"
+    },
+    {
+      "name": "Intermediate 2D VideoGame Programming Course with Unity",
+      "date": "2022-08-01",
+      "issuer": "Platzi",
+      "ID": "94f32346-841e-4f89-aee5-ab86fe042d2f",
+      "url": "https://platzi.com/p/marcoegea/curso/2431-unity2dintermedio/diploma/detalle/"
+    },
+    {
+        "name": "Professional Python Course",
+        "date": "2022-03-01",
+        "issuer": "Platzi",
+        "ID": "b803e87c-2c61-4a7f-93aa-7d5af8892afe",
+        "url": "https://platzi.com/p/marcoegea/curso/2397-python-profesional/diploma/detalle/"
+    },
+    {
+        "name": "Git and GitHub Professional Course",
+        "date": "2021-07-01",
+        "issuer": "Platzi",
+        "ID": "0a3237de-2cdf-4a58-b702-12a022f2b9b2",
+        "url": "https://platzi.com/p/marcoegea/curso/1557-git-github/diploma/detalle/"
+    }],
+    "skills": [
+        {
+            "name": "Python",
+            "level": "Advanced",
+            "keywords": [
+                "Machine learning", "Deep learning", "Backend", "PyTorch"
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "Advanced",
+            "keywords": [
+                "Desktop Applications", "Mobile Applications", "Game Development"
+            ]
+        },
+        {
+            "name": "C#",
+            "level": "Intermediate",
+            "keywords": [
+                "Unity", "Game Development", "Unity Ml-Agents"
+            ]
+        },
+        {
+            "name": "C++",
+            "level": "Beginner",
+            "keywords": [
+                "Robotics", "Machine learning", "Graphics Engine"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Advanced",
+            "keywords": [
+                "Version control", "Collaboration", "Source code", "Git"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Intermediate",
+            "keywords": [
+            "Version control", "Colaboración", "Source code"
+            ]
+        }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+        "name": "Videogames",
+        "keywords": [
+            "RPG",
+            "Shooter",
+            "Survival",
+            "Adventure",
+            "Strategy"
+        ]
+    },
+    {
+        "name": "Movies",
+        "keywords": [
+          "Superheroes",
+          "Marvel",
+          "DC",
+          "Star Wars",
+          "Zombies"
+        ]
+      },
+      {
+        "name": "Warhammer 40k",
+        "keywords": [
+          "Books",
+          "Videos",
+          "Grimdark",
+          "I am Alpharius"
+        ]
+      },
+      {
+        "name": "Astronomy",
+        "keywords": [
+          "Stars",
+          "Black Hole",
+          "Supernova",
+          "Dark matter",
+          "Antimatter"
+        ]
+      }],
+    "projects": [
+      {
+        "name": "Kinp Language",
+        "isActive": true,
+        "description": "This project is an open source programming language, based on Python. Clear and simple syntax, uses the functional programming paradigm.",
+        "highlights": [
+          "Python",
+          "Test automation",
+          "Software architecture patterns",
+          "Object-oriented programming (OOP)"
+        ],
+        "github": "https://github.com/Markoegea/KinpLanguage"
+      },
+      {
+        "name": "ForgeMind Engine",
+        "isActive": true,
+        "description": "A 2D videogame engine, allows you to import images, to create animations and OGG file audio",
+        "highlights": [
+          "Java",
+          "Videogame engine",
+          "2D graphics",
+          "OpenGL"
+        ],
+        "github": "https://github.com/Markoegea/ForgeMind"
+      },
+      {
+        "name": "Client-Side Android Ecommerce",
+        "isActive": true,
+        "description": "A eccomerce mobile application, that allow the client to see products and promotions, sent them to the cart, a real-time chat, delivery update and user authentication",
+        "highlights": [
+          "User Experience (UX) Design",
+          "Customer Service Integration",
+          "Feedback and Iteration",
+          "Firebase database",
+          "Monetization Strategies"
+        ],
+        "github": "https://github.com/Markoegea/MyClientModel_Android"
+      },
+      {
+        "name": "S.U.N.D.A.Y Assistant",
+        "isActive": true,
+        "description": "Run Python functions using only your voice as input",
+        "highlights": [
+            "Python",
+            "API Development",
+            "Deep Learning",
+            "Audio Processing",
+            "Artificial Intelligence"
+        ],
+        "github": "https://github.com/Markoegea/Project_Sunday"
+      },
+      {
+        "name": "Punzon Tool Store",
+        "isActive": true,
+        "description": "Project made in the labor technician. It has a database in Firestore. Allows you to upload products, register employees and clients. Manage prices, descriptions and images",
+        "highlights": [
+          "Teamwork",
+          "Firebase Storage and Firestore database",
+          "Mobile Development and Application Life Cycle."
+        ],
+        "github": "https://github.com/midudev/pruebas-tecnicas"
+        }
+    ]
+  }
