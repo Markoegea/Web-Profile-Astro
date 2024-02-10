@@ -24,6 +24,7 @@ import { work } from '@cv'
                         </header>
 
                         <footer>
+                            <br>
                             <b><p>{intro}</p></b>
                             <br>
                             <div class="summary">
@@ -32,20 +33,34 @@ import { work } from '@cv'
                                     <br>
                                 ))}
                             </div>
+                            <ul class="highlights">
+                                {
+                                    highlights.map((skill) => (
+                                        <li class="skill">
+                                            <span>{skill}</span>
+                                        </li>
+                                    ))
+                                }
+                            </ul>
                         </footer>
-
                     </article>
                 </li>
         )})}
     </ul>
+    <div class="border"></div>
 </Section>
 
 <style>
     ul {
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 15px;
     }
+
+    article {
+        border-top: 1px solid #838383;
+    }
+    
 
     article h3 {
         font-weight: 500;
@@ -70,5 +85,25 @@ import { work } from '@cv'
 
     .summary {
         padding-left: 25px;
+    }
+
+    .highlights {
+        flex-direction: row;
+        display: inline-flex;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    .skill {
+        border-radius: 6px;
+        background: #1f1f1f;
+        color: #c8c8c8;
+        font-size: 0.9rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
+    }
+
+    .border {
+        border-top: 1px solid #838383;
     }
 </style>
