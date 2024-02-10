@@ -11,7 +11,7 @@ import { work } from '@cv'
             const endYear = endDate != null ? new Date(endDate).getFullYear() : "Presente"
             const years = `${startYear} - ${endYear}`
             const newSummary = summary.split("\n");
-
+            const intro = newSummary.shift();
             return (
                 <li>
                     <article>
@@ -24,10 +24,14 @@ import { work } from '@cv'
                         </header>
 
                         <footer>
-                            {newSummary.map((sentence) => (
-                                <p>{sentence}</p>
-                                <br>
-                            ))}
+                            <b><p>{intro}</p></b>
+                            <br>
+                            <div class="summary">
+                                {newSummary.map((sentence) => (
+                                    <p>{sentence}</p>
+                                    <br>
+                                ))}
+                            </div>
                         </footer>
 
                     </article>
@@ -62,5 +66,9 @@ import { work } from '@cv'
     time {
         color: #747373;
         font-size: 0.85rem;
+    }
+
+    .summary {
+        padding-left: 25px;
     }
 </style>
