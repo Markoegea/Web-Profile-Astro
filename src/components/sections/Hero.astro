@@ -1,5 +1,5 @@
 ---
-import {basics} from '@cv'
+import {basics, languages} from '@cv'
 import Section from '@/components/Section.astro'
 import Mail from '@/icons/Mail.astro'
 import Phone from '@/icons/Phone.astro'
@@ -11,6 +11,7 @@ import WorldMap from '@/icons/WorldMap.astro'
 
 const {name, label, image, location, profiles, phone, email} = basics
 const {city, region} = location
+
 
 const SOCIAL_ICONS: Record<string, any> = {
     X,
@@ -82,6 +83,13 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
                     })
                 }
             </footer>
+            <footer>
+                {
+                    languages.map(({language, fluency}) => (
+                        <p class="highlights">{language} &bull; {fluency}</p>
+                    ))
+                }
+            </footer>
         </div>
     </div>
 </Section>
@@ -94,6 +102,21 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
         justify-content: space-between;
         gap: 0.5rem;
     }
+
+    .highlights {
+        border-radius: 6px;
+        background: #1f1f1f;
+        color: #c8c8c8;
+        font-size: 0.9rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
+    }
+
+    @media print {
+		.highlights {
+			padding: 0.2rem 0.6rem 0 0 !important;
+		}
+	}
 
     @media only screen and (max-width: 450px){
         .container{

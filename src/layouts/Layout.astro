@@ -83,8 +83,22 @@ const { title } = Astro.props;
 	}
 
 	@media print {
+		@font-face {
+			font-family: 'EBGaramond-Regular' !important;
+			src: url('/fonts/EBGaramond-Regular.ttf') !important;
+		}
+
+		html {
+			font-family: 'EBGaramond-Regular' !important;
+		}
+
+		h1, h2, h3, h4 {
+			font-family: 'EBGaramond-Regular' !important;
+		}
+
 		.print {
 			display: block !important;
+			font-size: 0.8rem !important;
 		}
 	}
 </style>

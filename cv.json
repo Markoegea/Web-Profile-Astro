@@ -100,6 +100,160 @@
         "issuer": "Platzi",
         "ID": "0a3237de-2cdf-4a58-b702-12a022f2b9b2",
         "url": "https://platzi.com/p/marcoegea/curso/1557-git-github/diploma/detalle/"
+    },
+    {
+      "name": "PHP Course: Integration with HTML",
+      "date": "2022-07-01",
+      "issuer": "Platzi",
+      "ID": "a8354a95-b2db-4e16-a9c2-f5fa23a9c0f6",
+      "url": "https://platzi.com/p/marcoegea/curso/2947-php-html/diploma/detalle/"
+    },
+    {
+      "name": "Basic PHP Course: Installation, Fundamentals and Operators",
+      "date": "2022-06-01",
+      "issuer": "Platzi",
+      "ID": "4a25ed8b-8c93-4d96-88c9-a425c3b3f2f0",
+      "url": "https://platzi.com/p/marcoegea/curso/2646-php/diploma/detalle/"
+    },
+    {
+      "name": "Practical PHP Course",
+      "date": "2022-06-01",
+      "issuer": "Platzi",
+      "ID": "0bc608e7-3ba7-42d0-9b5c-5f909fb92bd6",
+      "url": "https://platzi.com/p/marcoegea/curso/2516-php-practico/diploma/detalle/"
+    },
+    {
+      "name": "Introduction to IoT Course",
+      "date": "2022-06-01",
+      "issuer": "Platzi",
+      "ID": "5b2686fd-8f69-41f3-babb-c88721bf12f0",
+      "url": "https://platzi.com/p/marcoegea/curso/1506-iot/diploma/detalle/"
+    },
+    {
+      "name": "PHP Course: Arrays, Functions and Control Structures",
+      "date": "2022-06-01",
+      "issuer": "Platzi",
+      "ID": "4e50e04a-0205-41cd-a53e-be396502ac5b",
+      "url": "https://platzi.com/p/marcoegea/curso/2794-php-arreglos-funciones/diploma/detalle/"
+    },
+    {
+      "name": "Basic Course of Electronic Circuits",
+      "date": "2022-05-01",
+      "issuer": "Platzi",
+      "ID": "a2b99185-873b-4773-b7b0-b488b7011f7c",
+      "url": "https://platzi.com/p/marcoegea/curso/1632-fundamentos-circuitos/diploma/detalle/"
+    },
+    {
+      "name": "Data Manipulation and Transformation Course with Pandas and NumPy",
+      "date": "2022-05-01",
+      "issuer": "Platzi",
+      "ID": "01de5c8a-f124-4aa9-9688-ab7d304f26aa",
+      "url": "https://platzi.com/p/marcoegea/curso/2912-pandas-numpy/diploma/detalle/"
+    },
+    {
+      "name": "Machine Learning Practical Fundamentals Course",
+      "date": "2022-04-01",
+      "issuer": "Platzi",
+      "ID": "77fa01b1-c1f2-4a2b-9bf9-7572aba7b48e",
+      "url": "https://platzi.com/p/marcoegea/curso/1708-fundamentos-ml/diploma/detalle/"
+    },
+    {
+      "name": "Practical Course on Online Multiplayer Video Games with Unity and Mirror",
+      "date": "2022-03-01",
+      "issuer": "Platzi",
+      "ID": "6598e605-75a9-4417-9865-2155d29deda5",
+      "url": "https://platzi.com/p/marcoegea/curso/2622-unity-mirror/diploma/detalle/"
+    },
+    {
+      "name": "Course on Mathematical Functions for Data Science and Artificial Intelligence",
+      "date": "2022-03-01",
+      "issuer": "Platzi",
+      "ID": "af66cd0b-f3db-4182-981f-ce83f371a730",
+      "url": "https://platzi.com/p/marcoegea/curso/2701-funciones-matematicas/diploma/detalle/"
+    },
+    {
+      "name": "2D Video Game Programming Course with Unity",
+      "date": "2022-03-01",
+      "issuer": "Platzi",
+      "ID": "9cffc3c1-9ff8-4f13-a9c1-4c2897fa1c39",
+      "url": "https://platzi.com/p/marcoegea/curso/1887-unity-2d/diploma/detalle/"
+    },
+    {
+      "name": "C# Course for Video Games",
+      "date": "2022-02-01",
+      "issuer": "Platzi",
+      "ID": "ef8560aa-8fa3-4356-917e-9bdafacabe1d",
+      "url": "https://platzi.com/p/marcoegea/curso/1413-desarrollo-unity/diploma/detalle/"
+    },
+    {
+      "name": "Fundamentals Course for the Development of Online Multiplayer Video Games",
+      "date": "2022-02-01",
+      "issuer": "Platzi",
+      "ID": "0c16ef6d-ba2a-4b99-856a-c4760e1097e5",
+      "url": "https://platzi.com/p/marcoegea/curso/2621-videojuegos-multijugador/diploma/detalle/"
+    },
+    {
+      "name": "Fundamentals of Electricity and Electronics Course",
+      "date": "2022-01-01",
+      "issuer": "Platzi",
+      "ID": "03e867be-e3f1-4fba-96d0-00b7c3865b48",
+      "url": "https://platzi.com/p/marcoegea/curso/1609-electronica/diploma/detalle/"
+    },
+    {
+      "name": "Introduction to C# course with .NET 3.1",
+      "date": "2022-01-01",
+      "issuer": "Platzi",
+      "ID": "0585584b-4d7e-4a3c-8a4a-2a3539b3e7c0",
+      "url": "https://platzi.com/p/marcoegea/curso/2198-csharp-introduccion/diploma/detalle/"
+    },
+    {
+      "name": "Introduction to Backend Development Course",
+      "date": "2021-11-01",
+      "issuer": "Platzi",
+      "ID": "8803f923-7221-4447-bdbb-7279318ff5dc",
+      "url": "https://platzi.com/p/marcoegea/curso/2508-backend-introduccion/diploma/detalle/"
+    },
+    {
+      "name": "Introduction to Programming Language Development Course",
+      "date": "2021-10-01",
+      "issuer": "Platzi",
+      "ID": "acdbd168-8495-4d9f-880e-12451cc335df",
+      "url": "https://platzi.com/p/marcoegea/curso/2188-desarrollo-lenguajes-programacion/diploma/detalle/"
+    },
+    {
+      "name": "Intermediate Python Course: Comprehensions, Lambdas and Error Handling",
+      "date": "2021-09-01",
+      "issuer": "Platzi",
+      "ID": "ed265d0c-6050-4315-af9d-8fbaa4bdeeac",
+      "url": "https://platzi.com/p/marcoegea/curso/2255-python-intermedio/diploma/detalle/"
+    },
+    {
+      "name": "Basic Python Course",
+      "date": "2021-05-01",
+      "issuer": "Platzi",
+      "ID": "d7194bb3-de85-46ce-b07f-a6a857ad65e3",
+      "url": "https://platzi.com/p/marcoegea/curso/1937-python-basico/diploma/detalle/"
+    },
+    {
+      "name": "Business Analysis Course for Data Science",
+      "date": "2021-03-01",
+      "issuer": "Platzi",
+      "ID": "0a613d6a-5593-46fc-b5a3-16e73f200c30",
+      "url": "https://platzi.com/p/marcoegea/curso/2069-negocios-data-science/diploma/detalle/"
+    },
+    {
+      "name": "Algorithmic Complexity Course with Python",
+      "date": "2020-10-01",
+      "issuer": "Platzi",
+      "ID": "60e71e97-c446-43cb-a019-750531dca332",
+      "url": "https://platzi.com/p/marcoegea/curso/1775-algoritmos-python/diploma/detalle/"
+    },
+    {
+      "name": "Introduction to Computational Thinking with Python Course",
+      "date": "2020-09-01",
+      "issuer": "Platzi",
+      "ID": "c3c7f460-4000-4c11-ab0b-b85b7777e739",
+      "url": "https://platzi.com/p/marcoegea/curso/1764-python-cs/diploma/detalle/"
     }],
     "skills": [
         {
@@ -218,6 +372,19 @@
           "OpenGL"
         ],
         "github": "https://github.com/Markoegea/ForgeMind"
+      },
+      {
+        "name": "My AlphaZero API Rests",
+        "isActive": true,
+        "description": "DeepMind AlphaZero model, for the Tic Tac Toe and Connect Four games. It is played through the command console or its API for browsers, which uses Flask, JavaScript and HTML.",
+        "highlights": [
+          "Monte Carlo Tree search",
+          "Neural Networks",
+          "Generate training data on runtime",
+          "Actor/Critic functions",
+          "PyTorch"
+        ],
+        "github": "https://github.com/Markoegea/My_AlphaZeroAPI"
       },
       {
         "name": "Client-Side Android Ecommerce",
